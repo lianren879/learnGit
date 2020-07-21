@@ -5,3 +5,4 @@ asdasdasd
 12312312
 asdasd
 git diff测试3
+分支branch1的内容
